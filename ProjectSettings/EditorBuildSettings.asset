@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/HomeScene.unity
+    guid: 77e45099d10064f1282a0a11af427c56
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Test All Features.unity
+    guid: 8b91f0e6ab6d34b538930636bc41126c
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 1.unity
+    guid: 3bc086ec0b68d4a8cbd57968b29d3d8d
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 2.unity
+    guid: 7684b016142e64f1d9b7e4e22ef9bc1a
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 3.unity
+    guid: 23da054510108484db2c0327611fa8c7
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 4.unity
+    guid: de41823f258b94537a454af6c6cd13cf
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 5.unity
+    guid: 3dbb4541149e04868a2610b7daed39df
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 6.unity
+    guid: f6e38e8ae05214bd28498c274cbb90a6
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 7.unity
+    guid: d57a058d02cae4f178b15b5682c8d0e4
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 8.unity
+    guid: 9fb29f2ed65d6441c8ccef4d0b855774
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 9.unity
+    guid: e92f5310fe9384a2ab9f2ae2fb613a2b
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 10.unity
+    guid: bcafcd3331bb6496c8eab4f0f265b545
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 11.unity
+    guid: 9099fab2e599b45b19c8fc8cfca9e598
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 12.unity
+    guid: ac3e7dce2bc1146daa20674f4547b5e8
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 13.unity
+    guid: 441c9f5dacdf54e228ec43dbf8aea33a
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 14.unity
+    guid: b80ecced50e8f40089e86d92dfb20f54
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 15.unity
+    guid: de29d548e473849e8a8bf36dabcf3fcc
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 16.unity
+    guid: 10cc135c31a91420f9fa145e71ecec76
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 17.unity
+    guid: e5ff78afa715a401e954771844c82999
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 18.unity
+    guid: f9f398fac7983498291a3aa2adf7aff6
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 19.unity
+    guid: 4cb57e391fc064afebf3d3be2fa91ee7
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 20.unity
+    guid: e9209d62604584f3fa07f8d717c07c98
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 21.unity
+    guid: a65d9d3d36b2f49bdb64489284e2c0ac
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 22.unity
+    guid: 32bd0c4673cb343579e8871b42973d5d
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 23.unity
+    guid: 3b940539414f84545bf9e1ea76190ff9
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 24.unity
+    guid: 3e3ec6d771a5c457c878f6717d2448a6
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 25.unity
+    guid: a34275f8f70314549b4a8d2195778050
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 26.unity
+    guid: 7d22761d65e6849cc90af28f8b59c666
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 27.unity
+    guid: 8a368ed32a965497ab159f88590dfbb7
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 28.unity
+    guid: f8fbdeb6e874c4bd19b433382547475d
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 29.unity
+    guid: 37375a693cd2a4af681d2a2f8228ba7b
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 30.unity
+    guid: de326cee23a264c7d8a51253de491b80
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 31.unity
+    guid: 729382e68938d475b9e6978f69bf804c
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 32.unity
+    guid: 0fa49926762c84358ab80950bf89828e
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 33.unity
+    guid: 40b9aa79ad3fc49cdbcc59001d3f8d7f
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 34.unity
+    guid: e039ac13e256b44069afdf868dea1454
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 35.unity
+    guid: 44d1b184057e54db0b604a3b48877558
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 36.unity
+    guid: a1e3bee885f3845f4a90a8d4232efa56
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 37.unity
+    guid: 7ec5ededb82624dfbb1231bc4bc0f391
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 38.unity
+    guid: 2e18033f94c3a4bdbb6e419f812cc401
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 39.unity
+    guid: 437e667b13a364c888f2a44d5112bb71
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 40.unity
+    guid: e59b0636b7c0340ed82593293a7c7431
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 41.unity
+    guid: 3b6ad024b4b874eb99d7523a824f7577
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 42.unity
+    guid: 23c794eb474d04e31885c8c43caacdd3
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 43.unity
+    guid: 6600ebdc17eb6427bba39dac06597d1b
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 44.unity
+    guid: a3afe79c6a95d4641ba2a8f3bc4498ff
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 45.unity
+    guid: aa5289ef4371d4f8c83ba504284f9c9c
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 46.unity
+    guid: 9c0001941ae7e4f4fb682c97eaba4c49
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 47.unity
+    guid: 92fd72b00649a4da09c7bd6eaca070b5
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 48.unity
+    guid: a03bd906d627248f48bfa0a83c15492e
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 49.unity
+    guid: 9e003fd3deb0c4bdf8c2af9abaccecb7
+  - enabled: 1
+    path: Assets/TIKI25DKIT/Scene/Level 50.unity
+    guid: 1d27daa7300ba46e1b6c3d8588c8e5b6
+  m_configObjects: {}
